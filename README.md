@@ -34,8 +34,11 @@ These repositories are reference architectures and toolkits — distilled patter
 | Repository | What it is |
 | --- | --- |
 | [agentic-ai-reference-architectures](https://github.com/santismm/agentic-ai-reference-architectures) | Reference patterns for production agents: planning, tools, memory, evaluation, HITL, observability. |
+| [llm-production-playbook](https://github.com/santismm/llm-production-playbook) | Taking LLMs to production: RAG, evaluation, guardrails, and cost / latency / security trade-offs. |
+| [robotics-ai-lab](https://github.com/santismm/robotics-ai-lab) | Self-contained autonomy demos: perception, planning (A\*), simulation, control and human-robot interaction. |
 | [responsible-ai-governance-toolkit](https://github.com/santismm/responsible-ai-governance-toolkit) | Model cards, risk assessment, EU AI Act classification and governance checklists — as code and templates. |
-| _More coming_ | LLM production playbook · robotics-AI lab · AI business-impact calculator · a curated reading map. |
+| [ai-business-impact-calculator](https://github.com/santismm/ai-business-impact-calculator) | Estimate AI ROI, productivity, automation and adoption — library, CLI and an [interactive calculator](https://santismm.github.io/ai-business-impact-calculator/). |
+| [eureka-ai-reading-map](https://github.com/santismm/eureka-ai-reading-map) | A curated, topic-organized reading map — original EUREKA pieces plus foundational papers and frameworks. |
 
 ### Where to find me
 
