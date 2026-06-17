@@ -15,6 +15,7 @@
 | Renta actual | ~125.000.000 CLP/año ≈ 10,4 M CLP/mes (**por encima** del tope imponible) |
 | Situación | Hace 1 año 2 meses pasó a empresa chilena, cotiza **solo AFP** |
 | Plan | **Volver a España y jubilarse allí** |
+| Cotización prevista en España | Desde **julio 2026**, **base máxima**, mantenida hasta la jubilación (~18,5 años) |
 
 ---
 
@@ -153,39 +154,46 @@ retiro y **conservando** el seguro de carencia.
 
 ---
 
-## 6. Tu pensión ESPAÑOLA (ilustrativa, independiente de la AFP)
+## 6. Tu pensión ESPAÑOLA con base máxima desde julio 2026 (lo decisivo)
 
-Tu pensión española la determinan tus **bases de cotización y años en España**, no la AFP. Reglas
-2026 (se endurecerán hacia 2045):
+Este es el dato que de verdad mueve tu pensión. Cotizar la **base máxima ~18,5 años** te coloca,
+con alta probabilidad, **cerca del tope de pensión** (o en él). Reglas (2026; se endurecen hacia
+2045, año previsto de tu jubilación a los 67):
 
-- **Carencia mínima:** 15 años (5.475 días). Edad ordinaria 2026: 66 a 10 m (65 si ≥38 a 3 m).
-- **Base reguladora 2026:** la **mejor** de (300 meses ÷ 350) o (302 mejores de 304 meses ÷
-  352,33). El sistema evoluciona a "**mejores 27 de los últimos 29 años**" hacia 2037‑2044.
-- **Escala 2026:** 50 % a los 15 años; +0,21 %/mes los primeros 49 meses; +0,19 %/mes los 209
-  siguientes; **100 % a los 36 años y 6 meses**.
-- **Lagunas** (tus años en Chile cuentan como lagunas para el cómputo español): se integran con
-  la **base mínima** (100 % los primeros 60 meses, 80 % meses 61‑84, 50 % el resto).
-- **Pensión mínima 2026 (14 pagas):** con cónyuge a cargo 1.256,60 €/mes; sin cónyuge 936,20
-  €/mes. **Máxima 2026:** 3.359,60 €/mes.
-- **Complemento a mínimos:** límite de ingresos 9.442 €/año; en pensiones de **convenio/prorrata**
-  el complemento se **escala** por el % de prorrata español, y las pensiones extranjeras
-  **cuentan** como ingreso concurrente.
+- **Carencia mínima:** 15 años (5.475 días). Con ~4 años actuales + base máxima, **superas los
+  15 años hacia ~2037** cotizando solo en España. **A partir de ahí ya no necesitas los periodos
+  chilenos** para tener derecho (deja de tener valor el "seguro" del §4).
+- **Años totales en España a los 67:** ~4 actuales + ~18,5 = **~22‑23 años**.
+- **Base máxima de cotización 2026:** ~4.900‑5.100 €/mes (≈ 59.000‑61.000 €/año); sube cada año.
+- **Base reguladora a la jubilación:** se computan los **mejores 27 de los últimos 29 años** (324
+  mejores meses ÷ 378). Tus ~18,5 años a base máxima **dominan** el promedio; los años en Chile
+  entran como **lagunas** (su valoración es el principal factor de incertidumbre, ver abajo).
+- **Escala (2045, ~100 % a los 37 años):** con ~22‑23 años ⇒ **~68‑72 %** de la base reguladora.
+- **Tope de pensión 2026:** **3.359,60 €/mes** (14 pagas = 47.034,40 €/año). Sube ~2,8 %/año.
 
-**Estimación orientativa** (vuelves pronto, cotizas ~18 años cerca de base alta ⇒ ~22 años
-españoles, ~67 % de la base reguladora; la BR queda *moderada* porque el cómputo arrastra
-lagunas de tus años en Chile a base mínima):
+### Estimación (ilustrativa) — el rango depende de cómo se valoren las lagunas de Chile
 
-| Base reguladora | % (≈22 años) | Bruto/mes (≈) | Neto/mes (≈, IRPF rdtos. trabajo) |
-|---|---|---|---|
-| 1.800 € | ~67 % | ~1.205 € | ~1.140 € |
-| 2.400 € | ~67 % | ~1.610 € | ~1.450 € |
-| 3.000 € | ~67 % | ~2.010 € | ~1.710 € |
+| Caso | Base reguladora estimada | % (~22‑23 años) | **Bruto/mes** (14 pagas) | **Neto/mes aprox.** |
+|---|---|---|---|---|
+| **Conservador** (lagunas de Chile a base **mínima**, ~6 años) | ~3.000 € | ~70 % | **~2.100 €** | ~1.730 € |
+| **Intermedio** | ~3.800 € | ~70 % | **~2.660 €** | ~2.080 € |
+| **Favorable** (lagunas integradas con la base **más próxima/máxima**, o años suficientes) | ≥4.800 € | ~70 %+ | **3.359,60 € (TOPE)** | ~2.515 € |
 
-Fiscalidad de referencia: 800 €/mes ⇒ prácticamente **0 € de IRPF**; 1.200 € ⇒ ~4‑5 % efectivo;
-2.000 € ⇒ ~13‑15 % (varía por comunidad autónoma).
+> **Factor clave:** con tantos años a base máxima, **basta que el porcentaje (≈70 %) se aplique a
+> una base reguladora alta para chocar con el tope de 3.359,60 €/mes**. Es muy plausible que
+> termines **en o cerca de la pensión máxima**. La única palanca de mejora real es **cotizar más
+> años / no dejar lagunas en España**; conviene confirmar con el INSS cómo se integran tus años
+> en Chile en la base reguladora (la doctrina del Tribunal Supremo permite, en pensiones de
+> convenio, rellenar lagunas con la base "más próxima en el tiempo" en lugar de la mínima, lo que
+> te acercaría al caso favorable).
 
-> **Conclusión del §6:** el incremento de tu pensión española lo consigues **cotizando más años
-> y con bases más altas en España**, no con la AFP. La AFP no suma ni un euro a esa cuantía.
+Fiscalidad de la pensión (IRPF, rendimientos del trabajo, residente ≥65, varía por CCAA): una
+pensión en el tope (~47.034 €/año) soporta un IRPF efectivo del ~25 % (neto ~2.515 €/mes); a
+~2.100 €/mes el efectivo ronda ~18 %.
+
+> **Conclusión del §6:** tu pensión española la decides **tú con tus años a base máxima en
+> España**, y apunta **al entorno del máximo**. La AFP **no suma ni un euro** a esa cuantía, y
+> **tampoco la necesitas** para la carencia una vez superes 15 años españoles (~2037).
 
 ---
 
@@ -198,14 +206,19 @@ Fiscalidad de referencia: 800 €/mes ⇒ prácticamente **0 € de IRPF**; 1.20
 2. **Probablemente ni siquiera puedes retirar** bajo la Ley 18.156 (§3). Verifícalo con tu AFP.
 3. Si pudieras, el retiro **se grava en Chile** y te deja ~7.500 € netos, **menos** de lo que el
    fondo valdrá si lo dejas (~19.000 € reales a los 65).
-4. Con **< 5 años españoles** aún **no tienes asegurada la carencia de 15 años**; retirar
-   **debilita el seguro** que te dan los periodos chilenos hasta que consolides 15 años en España.
-5. Dejarlo te da, además, una **pensión chilena separada** (~80‑125 €/mes desde los 65),
-   cobrable desde España.
+4. **No afecta a tu pensión española**, que apunta al entorno del máximo gracias a tu base
+   máxima (§6). El "seguro" de carencia que dan los periodos chilenos solo te importa **hasta que
+   superes 15 años cotizados en España (~2037)**; después, mantener el fondo es una pura decisión
+   de inversión/liquidez.
+5. Dejarlo te da una **pensión chilena separada** (~80‑125 €/mes desde los 65), cobrable desde
+   España, y rinde igual o mejor que retirar e invertir por tu cuenta.
 
 **Cuándo reconsiderar retirar:** solo si (a) confirmas que **sí calificas**, y (b) tienes una
-necesidad de liquidez hoy que supere el valor combinado de la pensión chilena futura + el seguro
-de carencia + el ahorro del impuesto chileno.
+necesidad de liquidez hoy. Como tu carencia española quedará asegurada por tus años a base
+máxima, el riesgo previsional de retirar es bajo a partir de ~2037; antes de esa fecha, retirar
+debilitaría el seguro de los periodos chilenos. En cualquier caso, **el efectivo neto (~7.500 €
+gravados) es inferior al valor de dejarlo crecer**, así que retirar solo compensa ante una
+necesidad de caja real.
 
 ### Acciones recomendadas
 1. **Verifica con tu AFP** qué parte del saldo, si alguna, es retirable bajo Ley 18.156.
