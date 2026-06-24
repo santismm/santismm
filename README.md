@@ -1,49 +1,57 @@
-<!-- Profile README · github.com/santismm -->
+### Santiago Santa María Morales
 
-<h1 align="center">Santiago Santa María Morales</h1>
+**Head of AI Forward Deployed Engineers, LATAM @ Google Cloud** · Physicist by training
 
-<p align="center">
-  <b>Head of AI Forward Deployed Engineers, LATAM @ Google Cloud</b><br/>
-  Physicist by training · Applied AI for business and science
-</p>
-
-<p align="center">
-  <a href="https://santismm.com"><img alt="Website" src="https://img.shields.io/badge/santismm.com-070a13?style=flat-square&logo=safari&logoColor=22d3ee"></a>
-  <img alt="Focus" src="https://img.shields.io/badge/focus-agentic_AI-22d3ee?style=flat-square">
-  <img alt="Focus" src="https://img.shields.io/badge/focus-generative_AI-3b82f6?style=flat-square">
-  <img alt="Focus" src="https://img.shields.io/badge/focus-responsible_AI-10b981?style=flat-square">
-</p>
+[![santismm.com](https://img.shields.io/badge/santismm.com-070a13?style=flat-square&logo=safari&logoColor=22d3ee)](https://santismm.com)
+[![Harness Engineering](https://img.shields.io/badge/Harness_Engineering-22d3ee?style=flat-square)](https://santismm.com)
+[![Enterprise Agent Patterns](https://img.shields.io/badge/Enterprise_Agent_Patterns-3b82f6?style=flat-square)](https://santismm.com)
+[![Enterprise AI Governance](https://img.shields.io/badge/Enterprise_AI_Governance-10b981?style=flat-square)](https://santismm.com)
 
 ---
 
-> **I don't just talk about AI. I design, explain and prototype AI systems that real organizations can actually use.**
+> I build **[santismm.com](https://santismm.com)** — a canonical, **machine-readable knowledge base**
+> for taking enterprise AI agents to production. Evidence-first, generated from a single source of
+> truth, and designed to be read by humans *and* by other AI agents.
 
-A physicist by training (astrophysics and cosmology), today I lead the AI Forward Deployed Engineers team for Latin America at Google Cloud. Before that, close to a decade building Conversational and Agentic AI practices across five continents. I write and speak under **[EUREKA — AI & Tech for Business](https://santismm.com)**: frameworks, deep dives and conversations on AI for people who actually have to ship it.
+## The three pillars
 
-### What I work on
+- **Harness Engineering** — the scaffolding around the model: memory, observability, evaluation,
+  orchestration, security and governance that make agents reliable in production.
+- **Enterprise Agent Patterns** — reusable, evidence-tagged patterns for production agent systems
+  (orchestration, recovery, human-in-the-loop, context & cost control).
+- **Enterprise AI Governance** — EU AI Act, ISO/IEC 42001 and NIST AI RMF turned into practical
+  controls, model cards and checklists.
 
-- **Agentic AI** — planning, tools, memory, evaluation, human-in-the-loop and observability for systems that take action, not just chat.
-- **Generative AI in production** — RAG, evaluation, guardrails, and the cost / latency / safety trade-offs of taking LLMs from demo to deployment.
-- **Responsible AI & governance** — risk assessment, model cards, EU AI Act readiness and privacy-by-design.
-- **AI for science & robotics** — perception, planning and simulation, and the bridge between frontier research and real decisions.
+## Public knowledge base
 
-### Public projects
+The canonical source is **[santismm.com](https://santismm.com)** — content is authored once; the pages,
+APIs and the repositories below are **generated** from it.
 
-These repositories are reference architectures and toolkits — distilled patterns, not client work.
+| Repository | Pillar |
+|---|---|
+| [harness-engineering](https://github.com/santismm/harness-engineering) | The Handbook + the Enterprise Agent Patterns |
+| [agentic-ai-reference-architectures](https://github.com/santismm/agentic-ai-reference-architectures) | End-to-end agentic system blueprints |
+| [responsible-ai-governance-toolkit](https://github.com/santismm/responsible-ai-governance-toolkit) | Governance frameworks, controls & checklists |
 
-| Repository | What it is |
-| --- | --- |
-| [agentic-ai-reference-architectures](https://github.com/santismm/agentic-ai-reference-architectures) | Reference patterns for production agents: planning, tools, memory, evaluation, HITL, observability. |
-| [llm-production-playbook](https://github.com/santismm/llm-production-playbook) | Taking LLMs to production: RAG, evaluation, guardrails, and cost / latency / security trade-offs. |
-| [robotics-ai-lab](https://github.com/santismm/robotics-ai-lab) | Self-contained autonomy demos: perception, planning (A\*), simulation, control and human-robot interaction. |
-| [responsible-ai-governance-toolkit](https://github.com/santismm/responsible-ai-governance-toolkit) | Model cards, risk assessment, EU AI Act classification and governance checklists — as code and templates. |
-| [ai-business-impact-calculator](https://github.com/santismm/ai-business-impact-calculator) | Estimate AI ROI, productivity, automation and adoption — library, CLI and an [interactive calculator](https://santismm.github.io/ai-business-impact-calculator/). |
-| [eureka-ai-reading-map](https://github.com/santismm/eureka-ai-reading-map) | A curated, topic-organized reading map — original EUREKA pieces plus foundational papers and frameworks. |
+## For AI agents 🤖
 
-### Where to find me
+The whole corpus is machine-consumable:
 
-Articles, videos and podcasts across Substack, Medium, YouTube and LinkedIn — all collected in one place at **[santismm.com](https://santismm.com)**.
+- Index: **[santismm.com/llms.txt](https://santismm.com/llms.txt)**
+- Full corpus: **[santismm.com/llms-full.txt](https://santismm.com/llms-full.txt)**
+- Plus JSON-LD, a knowledge graph and an MCP endpoint.
+
+## Other work
+
+A physicist by training (astrophysics & cosmology), I also keep a few applied projects outside the
+core knowledge base:
+
+- [llm-production-playbook](https://github.com/santismm/llm-production-playbook) — RAG, evaluation, guardrails and the cost / latency / security trade-offs of shipping LLMs.
+- [ai-business-impact-calculator](https://github.com/santismm/ai-business-impact-calculator) — estimate AI ROI, productivity and adoption ([interactive calculator](https://santismm.github.io/ai-business-impact-calculator/)).
+- [robotics-ai-lab](https://github.com/santismm/robotics-ai-lab) — self-contained autonomy demos: perception, planning, simulation and control.
+- [eureka-ai-reading-map](https://github.com/santismm/eureka-ai-reading-map) — a curated, topic-organized AI reading map.
 
 ---
 
-<sub><b>Disclaimer:</b> Opinions are my own. No confidential client or employer information is shared here.</sub>
+_Articles, videos and podcasts (EUREKA — AI & Tech for Business) are collected at [santismm.com](https://santismm.com)._
+_Opinions are personal. No confidential client or employer information is shared here._
