@@ -15,6 +15,13 @@
 
 ## The three pillars
 
+| Repository | Pillar | Canonical |
+| --- | --- | --- |
+| [harness-engineering](https://github.com/santismm/harness-engineering) | The Handbook + the Enterprise Agent Patterns | [/en/handbook](https://santismm.com/en/handbook) |
+| [agentic-ai-reference-architectures](https://github.com/santismm/agentic-ai-reference-architectures) | End-to-end agentic system blueprints | [/en/architectures](https://santismm.com/en/architectures) |
+| [responsible-ai-governance-toolkit](https://github.com/santismm/responsible-ai-governance-toolkit) | Governance frameworks, controls & checklists | [/en/governance](https://santismm.com/en/governance) |
+
+
 - **Harness Engineering** — the scaffolding around the model: memory, observability, evaluation,
   orchestration, security and governance that make agents reliable in production.
 - **Enterprise Agent Patterns** — reusable, evidence-tagged patterns for production agent systems
