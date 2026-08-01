@@ -34,13 +34,12 @@ APIs and the repositories below are **generated** from it.
 | [responsible-ai-governance-toolkit](https://github.com/santismm/responsible-ai-governance-toolkit) | Governance frameworks, controls & checklists |
 
 
-### For AI agents 🤖
+## For AI agents 🤖
 
 The whole corpus is machine-consumable — **[santismm.com/en/for-agents](https://santismm.com/en/for-agents)**
 lists every surface as a followable link.
 
 | | |
-| --- | --- |
 | **[MCP endpoint](https://santismm.com/en/mcp)** | `https://santismm.com/mcp` — 13 tools, stateless Streamable HTTP, no auth. Listed in the official registry as `com.santismm/knowledge` |
 | **[llms.txt](https://santismm.com/llms.txt)** | Index of the corpus |
 | **[llms-full.txt](https://santismm.com/llms-full.txt)** | Every unit inlined, with Evidence-First provenance |
