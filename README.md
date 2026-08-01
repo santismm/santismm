@@ -33,13 +33,24 @@ APIs and the repositories below are **generated** from it.
 | [agentic-ai-reference-architectures](https://github.com/santismm/agentic-ai-reference-architectures) | End-to-end agentic system blueprints |
 | [responsible-ai-governance-toolkit](https://github.com/santismm/responsible-ai-governance-toolkit) | Governance frameworks, controls & checklists |
 
-## For AI agents 🤖
 
-The whole corpus is machine-consumable:
+### For AI agents 🤖
 
-- Index: **[santismm.com/llms.txt](https://santismm.com/llms.txt)**
-- Full corpus: **[santismm.com/llms-full.txt](https://santismm.com/llms-full.txt)**
-- Plus JSON-LD, a knowledge graph and an MCP endpoint.
+The whole corpus is machine-consumable — **[santismm.com/en/for-agents](https://santismm.com/en/for-agents)**
+lists every surface as a followable link.
+
+| | |
+| --- | --- |
+| **[MCP endpoint](https://santismm.com/en/mcp)** | `https://santismm.com/mcp` — 13 tools, stateless Streamable HTTP, no auth. Listed in the official registry as `com.santismm/knowledge` |
+| **[llms.txt](https://santismm.com/llms.txt)** | Index of the corpus |
+| **[llms-full.txt](https://santismm.com/llms-full.txt)** | Every unit inlined, with Evidence-First provenance |
+| **[ai-index.json](https://santismm.com/ai-index.json)** | Discovery manifest: APIs, MCP, skill and corpus |
+| **[Agent Skill](https://santismm.com/skill.json)** | The procedure for turning the corpus into grounded, citable deliverables |
+| **[Knowledge graph](https://santismm.com/api/graph.json)** | Nodes and typed edges across every domain |
+
+61 units, five domains, trilingual (en/es/pt). **CC BY 4.0** — reuse it freely,
+credit the author and link the canonical URL. Every API entry and MCP result
+carries its own `canonical_url`.
 
 ## Other work
 
