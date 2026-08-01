@@ -13,32 +13,28 @@
 > for taking enterprise AI agents to production. Evidence-first, generated from a single source of
 > truth, and designed to be read by humans *and* by other AI agents.
 
-## The three pillars
+### The three pillars
 
-| Repository | Pillar | Canonical |
+**Harness Engineering** — the scaffolding around the model: memory, observability,
+evaluation, orchestration, security and governance that make agents reliable in
+production.
+
+**Enterprise Agent Patterns** — reusable, evidence-tagged patterns for production
+agent systems (orchestration, recovery, human-in-the-loop, context & cost control).
+
+**Enterprise AI Governance** — EU AI Act, ISO/IEC 42001 and NIST AI RMF turned into
+practical controls, model cards and checklists.
+
+## Public knowledge base
+
+The canonical source is **[santismm.com](https://santismm.com)** — content is
+authored once; the pages, APIs and the repositories below are generated from it.
+
+| Repository | Contents | Canonical |
 | --- | --- | --- |
 | [harness-engineering](https://github.com/santismm/harness-engineering) | The Handbook + the Enterprise Agent Patterns | [/en/handbook](https://santismm.com/en/handbook) |
 | [agentic-ai-reference-architectures](https://github.com/santismm/agentic-ai-reference-architectures) | End-to-end agentic system blueprints | [/en/architectures](https://santismm.com/en/architectures) |
 | [responsible-ai-governance-toolkit](https://github.com/santismm/responsible-ai-governance-toolkit) | Governance frameworks, controls & checklists | [/en/governance](https://santismm.com/en/governance) |
-
-
-- **Harness Engineering** — the scaffolding around the model: memory, observability, evaluation,
-  orchestration, security and governance that make agents reliable in production.
-- **Enterprise Agent Patterns** — reusable, evidence-tagged patterns for production agent systems
-  (orchestration, recovery, human-in-the-loop, context & cost control).
-- **Enterprise AI Governance** — EU AI Act, ISO/IEC 42001 and NIST AI RMF turned into practical
-  controls, model cards and checklists.
-
-## Public knowledge base
-
-The canonical source is **[santismm.com](https://santismm.com)** — content is authored once; the pages,
-APIs and the repositories below are **generated** from it.
-
-| Repository | Pillar |
-|---|---|
-| [harness-engineering](https://github.com/santismm/harness-engineering) | The Handbook + the Enterprise Agent Patterns |
-| [agentic-ai-reference-architectures](https://github.com/santismm/agentic-ai-reference-architectures) | End-to-end agentic system blueprints |
-| [responsible-ai-governance-toolkit](https://github.com/santismm/responsible-ai-governance-toolkit) | Governance frameworks, controls & checklists |
 
 
 ## For AI agents 🤖
