@@ -1,0 +1,33 @@
+name: role-check
+
+# Fails if the profile README presents Google Cloud as the current employer.
+# Current role: Group Chief AI Officer @ ACCIONA (since 2026-06-29).
+# Google Cloud may only appear as previous experience ("Previously Google Cloud ...").
+
+on:
+  push:
+    paths:
+      - README.md
+      - .github/workflows/role-check.yml
+  pull_request:
+    paths:
+      - README.md
+      - .github/workflows/role-check.yml
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  role-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: No current-role mentions of Google Cloud
+        run: |
+          pattern='@[[:space:]]*Google Cloud|Head of.*Google Cloud|Google Cloud.*Head of|currently.*Google Cloud|Google Cloud.*currently'
+          if grep -n -i -E "$pattern" README.md; then
+            echo "::error file=README.md::Google Cloud appears as a current role. Current role is Group Chief AI Officer @ ACCIONA; Google Cloud is previous experience."
+            exit 1
+          fi
+          echo "OK: no current-role mentions of Google Cloud."

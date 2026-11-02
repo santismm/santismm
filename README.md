@@ -1,6 +1,6 @@
 ### Santiago Santa María Morales
 
-**Head of AI Forward Deployed Engineers, LATAM @ Google Cloud** · Physicist by training
+**Group Chief AI Officer @ ACCIONA** · Physicist by training · Previously Google Cloud (LATAM & US) and NTT DATA
 
 [![santismm.com](https://img.shields.io/badge/santismm.com-070a13?style=flat-square&logo=safari&logoColor=22d3ee)](https://santismm.com)
 [![Harness Engineering](https://img.shields.io/badge/Harness_Engineering-22d3ee?style=flat-square)](https://santismm.com)
@@ -44,7 +44,7 @@ lists every surface as a followable link.
 
 | | |
 |---|---|
-| **[MCP endpoint](https://santismm.com/en/mcp)** | `https://santismm.com/mcp` — 13 tools, stateless Streamable HTTP, no auth. Listed in the official registry as `com.santismm/knowledge` |
+| **[MCP endpoint](https://santismm.com/en/mcp)** | `https://santismm.com/mcp` — 36 tools, stateless Streamable HTTP, no auth. Listed in the official registry as `com.santismm/knowledge` |
 | **[llms.txt](https://santismm.com/llms.txt)** | Index of the corpus |
 | **[llms-full.txt](https://santismm.com/llms-full.txt)** | Every unit inlined, with Evidence-First provenance |
 | **[ai-index.json](https://santismm.com/ai-index.json)** | Discovery manifest: APIs, MCP, skill and corpus |
